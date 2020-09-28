@@ -1,0 +1,30 @@
+variable
+una informacion guardada previamente que al escribir su nombre (el cual no debe ser un comando como var) traera esa informacion
+(al menos que la variable fuese creada dentro de una funcion ya que dicha variable solo existira dentro de la variable)
+
+
+strings
+
+datos alfanumericos escritos entre '' que seran siempre tratados como texto 
+(ejemplo '1' + '1' 
+	  "11")
+
+funciones
+
+similares a las variables las funciones se estrablecen previamente y cuando se las llaman traen informacion 
+pero en el caso de las funciones trae lineas de codigo con el odjetivo de no tener que escribirlas multiples veces
+si guardar una variable es como guardar un papel entonces guardar es como guardar una herramienta
+hablando de variables las funciones pueden usarlas tanto creandolas dentro de si mismas (pero solo se usaran dentro de la funcion y no se pueden sacar) 
+o trayendolas de afuera en forma de argumentos (variables dentro de los () de la funcion)
+para terminar una funcion se usara return ya que ninguna linea de codigo debajo de la misma sera utilisada y mas inmportante sacara a fuera de la funcion lo deseado
+(ejemplo: una funcion de multiplicacion usaria 2 argumentos para retornar la multiplicacion de los mismos o un solo argumento que sera multiplicado por un numero fijo)
+
+declaracion if
+
+un codigo que dependiendo de una condicion ejecutara un codigo (en caso de ser verdad) o ejecutara "else" que puede ser un codigo completamente distinto al primero (en caso de ser negativo)
+si la condicion resulta verdadera el codigo de la condicion negativa jamas se ejecutara y viceversa
+
+valores booleanos
+
+son un tipo de dato cuyos dos unicos valores son true y false que ayuda imaginarlos como si fuera binario (true = 1 y false = 0)
+en el contexto de comandos matematicos, por ejemplo, true seria cuando es cierto (1 > 0) y false cuando no (1 < 0)

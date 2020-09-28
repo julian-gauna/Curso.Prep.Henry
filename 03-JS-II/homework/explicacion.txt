@@ -1,0 +1,16 @@
+for
+cuando se quiera ejecutar una linea de codigo multiples veses se usa un bucle for
+se compone de 3 partes la variable declarada (el contador)
+la condicion (simpre que vuelva como true se repetira el codigo dentro de for)
+el aumentodor (le sumara valor a el contador creado en el primer componente y volvera a ejecutar todo el bucle)
+apenas el segundo componente retorne false se dejara de ejecutar este codigo
+
+|| (or)
+cuando al menos 1 de sus argumentos sea verdadero la operacion || dara true en cualquier otro caso dara false
+
+
+&& (and)
+las operaciones && solo generan un true cuando sus 2 argumentos son verdaderos en cualquier otro caso seria negativo
+
+! (not)
+la operacion ! invertira cualquier valor bolleano haciendo true = false y viceversa
